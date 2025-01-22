@@ -58,7 +58,7 @@ project-name/
 ---
 
 ## Contributors
-- **Minsu Kim** - Hello, my name is Minsu! I like to manage Git! Good teamwork! Thank you!
+- **Minsu Kim** - Hi, my name is Minsu! I like to manage Git! Good teamwork! Thank you!
 - **Aarushi Sharma** - Hi, I am BCIT CST Student, hopes to create a her won app.Fun fact- loves watching web series.
 - **Shaz Uqaili** - BCIT CST Student with interested in learning more about different programming languages to work on new projects.
 - **Hali Imanpanah** - This is Hali from Group 18.Excited to work with everyone.
