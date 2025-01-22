@@ -58,9 +58,9 @@ project-name/
 ---
 
 ## Contributors
-- **Minsu Kim** - Hello, my name is Minsu! I like to manage Git! Good teamwork!
+- **Your Name** - BCIT CST Student with a passion for creating user-friendly applications. Fun fact: Loves solving Rubik's Cubes in under a minute.
 - **Teammate Name** - BCIT CST Student, Frontend enthusiast with a knack for creative design. Fun fact: Has a collection of over 50 houseplants.
-- **Shaz Uqaili** - BCIT CST Student with a passion for creating user-friendly applications. Fun fact: Loves solving Rubik's Cubes in under a minute.
+- **Shaz Uqaili** - BCIT CST Student with an interest for learning different programming to work in a variety of projects
 
 
 
